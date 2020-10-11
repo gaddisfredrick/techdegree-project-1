@@ -178,6 +178,7 @@ a.ig:hover {
 
   header {
     min-height: 470px;
+    background-image: url('../images/jackson.jpg');
   }
 
   .nav {
